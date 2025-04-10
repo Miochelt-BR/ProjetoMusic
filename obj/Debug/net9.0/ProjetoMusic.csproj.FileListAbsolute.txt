@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\bin\Debug\net9.0\ProjetoMusic.exe
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\bin\Debug\net9.0\ProjetoMusic.deps.json
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\bin\Debug\net9.0\ProjetoMusic.runtimeconfig.json
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\bin\Debug\net9.0\ProjetoMusic.dll
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\bin\Debug\net9.0\ProjetoMusic.pdb
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.sourcelink.json
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.dll
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\refint\ProjetoMusic.dll
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.pdb
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ProjetoMusic.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Desktop\repos_2025\ProjetoMusic\obj\Debug\net9.0\ref\ProjetoMusic.dll
